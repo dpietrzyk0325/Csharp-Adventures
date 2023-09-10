@@ -1,0 +1,14 @@
+c:\Users\mariu\Desktop\Code\C#\C# Adventures\anotherTest\bin\Debug\net7.0\anotherTest.exe
+c:\Users\mariu\Desktop\Code\C#\C# Adventures\anotherTest\bin\Debug\net7.0\anotherTest.deps.json
+c:\Users\mariu\Desktop\Code\C#\C# Adventures\anotherTest\bin\Debug\net7.0\anotherTest.runtimeconfig.json
+c:\Users\mariu\Desktop\Code\C#\C# Adventures\anotherTest\bin\Debug\net7.0\anotherTest.dll
+c:\Users\mariu\Desktop\Code\C#\C# Adventures\anotherTest\bin\Debug\net7.0\anotherTest.pdb
+c:\Users\mariu\Desktop\Code\C#\C# Adventures\anotherTest\obj\Debug\net7.0\anotherTest.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mariu\Desktop\Code\C#\C# Adventures\anotherTest\obj\Debug\net7.0\anotherTest.AssemblyInfoInputs.cache
+c:\Users\mariu\Desktop\Code\C#\C# Adventures\anotherTest\obj\Debug\net7.0\anotherTest.AssemblyInfo.cs
+c:\Users\mariu\Desktop\Code\C#\C# Adventures\anotherTest\obj\Debug\net7.0\anotherTest.csproj.CoreCompileInputs.cache
+c:\Users\mariu\Desktop\Code\C#\C# Adventures\anotherTest\obj\Debug\net7.0\anotherTest.dll
+c:\Users\mariu\Desktop\Code\C#\C# Adventures\anotherTest\obj\Debug\net7.0\refint\anotherTest.dll
+c:\Users\mariu\Desktop\Code\C#\C# Adventures\anotherTest\obj\Debug\net7.0\anotherTest.pdb
+c:\Users\mariu\Desktop\Code\C#\C# Adventures\anotherTest\obj\Debug\net7.0\anotherTest.genruntimeconfig.cache
+c:\Users\mariu\Desktop\Code\C#\C# Adventures\anotherTest\obj\Debug\net7.0\ref\anotherTest.dll
